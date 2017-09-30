@@ -1,5 +1,5 @@
 # Probabilistic Volume Rendering - Feature extraction using 3D Convolutional Sparse Coding
-This is the repo for feature extraction part of Probabilistic Volume Rendering
+This is the repo for feature extraction in Probabilistic Volume Rendering
 
 Data in *.tif format have been store in folders:
 - data_bonsai# CT bonsai	
@@ -14,7 +14,7 @@ Base implementation was extended from 2D version of MATLAB code from http://bren
 
 If you use this code please refer to these papers: 
 
-
+```
 @article{quan_intelligent_2017,
 	title = {An {Intelligent} {System} {Approach} for {Probabilistic} {Volume} {Rendering} using {Hierarchical} 3D {Convolutional} {Sparse} {Coding}},
 	volume = {PP},
@@ -24,7 +24,8 @@ If you use this code please refer to these papers:
 	author = {Quan, T. M. and Choi, J. and Jeong, H. and Jeong, W. K.},
 	year = {2017},
 }
-
+```
+```
 @inproceedings{wohlberg_efficient_2014,
 	title = {Efficient convolutional sparse coding},
 	doi = {10.1109/ICASSP.2014.6854992},
@@ -34,7 +35,8 @@ If you use this code please refer to these papers:
 	year = {2014},
 	pages = {7173--7177},
 }
-
+```
+```
 @article{wohlberg_efficient_2015, 
 	author={B. Wohlberg}, 
 	journal={IEEE Transactions on Image Processing}, 
@@ -47,3 +49,4 @@ If you use this code please refer to these papers:
 	ISSN={1057-7149}, 
 	month={Jan},
 }
+```
