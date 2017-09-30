@@ -7,6 +7,7 @@ Data in *.tif format have been store in folders:
 - data_ldCT	 # Low dose CT
 - data_tooth # CT Tooth	
 
+
 Run main_generate_all.m to generate all sparse maps, response maps (3 levels with hierarchical summation at each level)
 Maps are stored in maps_* 
 
